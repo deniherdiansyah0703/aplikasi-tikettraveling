@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="Order"
+        android:id="@+id/ord"/>
+    <item
+        android:title="Airport Website "
+        android:id="@+id/airp"/>
+    <item
+        android:title="Port Website "
+        android:id="@+id/por"/>
+    <item
+        android:title="Stasiun Website "
+        android:id="@+id/sta"/>
+</menu>

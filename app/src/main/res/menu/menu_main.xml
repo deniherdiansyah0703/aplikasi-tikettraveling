@@ -1,0 +1,31 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.uts.ListBookActivity">
+    <item
+        android:id="@+id/jp"
+        android:orderInCategory="100"
+        android:title="Jadwal Penerbangan"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/jl"
+        android:orderInCategory="100"
+        android:title="Jadwal Pelayaran"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/ja"
+        android:orderInCategory="100"
+        android:title="Jadwal Kereta Api"
+        app:showAsAction="never"
+        />
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="Logout"
+        app:showAsAction="never"
+        />
+
+
+</menu>
